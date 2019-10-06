@@ -1,0 +1,36 @@
+.field-agent .footer-2 {
+  position: relative; }
+  .field-agent .footer-2 h3 {
+    font-weight: 700;
+    line-height: 1.5;
+    color: #0f375a;
+    margin-bottom: 1rem; }
+  .field-agent .footer-2 p, .field-agent .footer-2 a {
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.79;
+    color: #0f375acf;
+    font-family: Avenir, sans-serif;
+    margin-bottom: 0; }
+  .field-agent .footer-2 .divider {
+    border: 0.5px solid #d0dce7;
+    position: absolute;
+    bottom: 8rem;
+    left: 8rem;
+    width: 40rem;
+    z-index: 2; }
+
+.field-agent .contact img {
+  max-width: 490px;
+  height: auto;
+  position: relative !important;
+  margin-top: 3rem; }
+
+@media (max-width: 800px) {
+  .field-agent .contact-footer .divider {
+    border: 0.5px solid #d0dce7;
+    position: absolute;
+    bottom: 11rem;
+    left: 8rem;
+    width: 40rem;
+    z-index: 3; } }

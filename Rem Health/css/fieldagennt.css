@@ -1,0 +1,213 @@
+
+
+
+.field-agent {
+    background-color: #ffffff;
+    padding: 3rem 0 0 0; }
+    .field-agent .left {
+      padding: 2rem 0 6rem 0; }
+    .field-agent .left h1 {
+      font-family: Avenir, sans-serif;
+      font-size: 38px;
+      font-weight: 700;
+      line-height: 1.2;
+      color: #0f375a; }
+    .field-agent .left h6 {
+      letter-spacing: 0.4px;
+      color: #2ca1ca;
+      padding-bottom: .4rem;
+      border-bottom: solid 1.5px #2ca1ca;
+      width: -webkit-fit-content;
+      width: -moz-fit-content;
+      width: fit-content;
+      margin: 1rem 0; }
+    .field-agent .left h3 {
+      line-height: 1.5;
+      color: #0f375acf;
+      width: 100%;
+      margin-bottom: 2rem;
+      font-weight: 300; }
+    .field-agent .right {
+      position: relative; }
+    .field-agent .right .hero-img {
+      position: absolute;
+      top: 0;
+      right: 0;
+      z-index: 2; }
+    .field-agent .right .btn-play {
+      position: absolute;
+      -webkit-transform: translateY(50%) translateX(50%);
+      -ms-transform: translateY(50%) translateX(50%);
+      transform: translateY(50%) translateX(50%);
+      top: 42%;
+      left: 45%;
+      z-index: 3; }
+  
+  .field-agent-benefits {
+    background-color: #f0fcf8;
+    padding: 10rem 0 7rem 0;
+    position: relative; }
+    .field-agent-benefits h4 {
+      font-weight: 500;
+      border-bottom: 1px solid #dfe6ec;
+      color: #00375d;
+      padding-bottom: .5rem; }
+    .field-agent-benefits p {
+      line-height: 1.8; }
+    .field-agent-benefits .inner {
+      padding: 41px 36px;
+      width: 100%;
+      height: 100%;
+      -webkit-backdrop-filter: blur(30px);
+      backdrop-filter: blur(30px);
+      -webkit-box-shadow: 0 20px 40px 0 rgba(21, 82, 134, 0.06);
+      box-shadow: 0 20px 40px 0 rgba(21, 82, 134, 0.06);
+      background-color: #ffffff; }
+    .field-agent-benefits .col-md-4 {
+      z-index: 2; }
+    .field-agent-benefits .inner img {
+      width: 50px;
+      height: auto;
+      margin-bottom: 1rem; }
+    .field-agent-benefits .inner p {
+      margin-bottom: 0; }
+    .field-agent-benefits .swivel {
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      z-index: 1;
+      opacity: .5; }
+    .field-agent-benefits .top {
+      margin-bottom: 1rem; }
+  
+  .download-app, .fa-questions {
+    padding: 7rem 0;
+    background: #ffffff; }
+  
+  .fa-register {
+    background-image: -webkit-linear-gradient(299deg, #155286, #0f375a);
+    background-image: -o-linear-gradient(299deg, #155286, #0f375a);
+    background-image: linear-gradient(151deg, #155286, #0f375a);
+    padding: 7rem 0; }
+    .fa-register h2 {
+      color: #ffffff;
+      margin-bottom: 2rem;
+      font-size: 32px; }
+    .fa-register input[type="email"],
+    .fa-register input[type="text"],
+    .fa-register input[type="tel"] {
+      width: 233px;
+      display: inline-block;
+      border-radius: 0;
+      border: none;
+      padding: .8rem 1rem;
+      font-family: 'Avenir', sans-serif;
+      font-size: 15px;
+      margin-right: 7px;
+      margin-bottom: 10px; }
+    .fa-register input[type="submit"] {
+      width: 99.5%;
+      display: block; }
+    .fa-register #mc_embed_signup .mc-field-group input {
+      width: 100%;
+      display: inline-block;
+      border-radius: 0;
+      border: none;
+      padding: .8rem 1rem;
+      font-family: 'Avenir', sans-serif;
+      font-size: 15px;
+      margin-right: 7px;
+      margin-bottom: 10px; }
+    .fa-register #mc-embedded-subscribe {
+      display: block;
+      margin: 0;
+      width: 944px;
+      border-radius: 0 !important;
+      border: 0 !important; }
+    .fa-register #mc_embed_signup .mc-field-group {
+      clear: left;
+      position: relative;
+      width: 233px;
+      padding-bottom: 0;
+      min-height: 50px;
+      display: inline-block; }
+    .fa-register #mc_embed_signup .mc-field-group label {
+      display: none; }
+    .fa-register #mc_embed_signup {
+      background: transparent;
+      font: 14px "Open Sans",Arial,sans-serif; }
+    .fa-register #mc_embed_signup form {
+      padding: 0; }
+  
+  .fa-questions #accordion button {
+    font-family: 'Avenir', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.5;
+    color: #0f375a;
+    width: 100%;
+    text-align: left;
+    text-decoration: none;
+    white-space: normal; }
+  
+  .fa-questions #accordion button span {
+    width: 15.4px;
+    height: 10px;
+    float: right;
+    margin-top: 9px;
+    background: url("../img/up-arrow-2.svg") no-repeat center, center;
+    background-size: contain; }
+  
+  .fa-questions #accordion button.collapsed span {
+    background: url("../img/down-arrow-2.svg") no-repeat center, center; }
+  
+  .fa-questions #accordion button.collapsed {
+    font-weight: 400; }
+  
+  .fa-questions .card {
+    border: 1px solid #d0dce7;
+    border-radius: 0;
+    background-color: #ffffff;
+    margin-bottom: 1rem; }
+  
+  .fa-questions .card-body {
+    padding: 2.5rem;
+    -webkit-box-shadow: -15px 10px 0px 0 rgba(15, 55, 90, 0.04);
+    box-shadow: -15px 10px 0px 0 rgba(15, 55, 90, 0.04);
+    font-size: 16px;
+    font-weight: 300;
+    font-stretch: normal;
+    line-height: 1.7;
+    color: #0f375a;
+    font-family: 'Avenir', sans-serif; }
+  
+  .fa-questions .card-header {
+    background-color: #ffffff;
+    border-bottom: none; }
+  
+  .download-app h1 br {
+    display: none; }
+  
+  @media (max-width: 1279px) {
+    .fa-register input[type="email"], .fa-register input[type="text"], .fa-register input[type="tel"] {
+      width: 222.3px; }
+    .fa-register #mc_embed_signup .mc-field-group {
+      width: 100%;
+      display: block; }
+    .fa-register #mc-embedded-subscribe {
+      width: 100%; } }
+  
+  @media (max-width: 991px) {
+    .fa-register input[type="email"], .fa-register input[type="text"], .fa-register input[type="tel"] {
+      width: 100%; }
+    .fa-register #mc_embed_signup .mc-field-group {
+      width: 100%; }
+    #mc_embed_signup .mc-field-group input {
+      width: 100% !important;
+      border: none !important; } }
+  
+  @media (max-width: 800px) {
+    .field-agent .right .hero-img {
+      right: -70px;
+      top: 30px; } }
+  
