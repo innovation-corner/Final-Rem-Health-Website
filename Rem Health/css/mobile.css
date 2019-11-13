@@ -105,7 +105,7 @@ header {
     background-image: url(../img/menu.svg) !important;
     width: 21px; }
   .navbar-light .navbar-toggler-icon {
-    background-image: url(../img/menu-light.svg) !important;
+    background-image: url(menu-light.svg) !important;
     width: 21px; }
   .navbar .navbar-toggler {
     border-left: 1px solid #00375d29 !important; }
